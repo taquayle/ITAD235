@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Assign_04_01 - Tree", "Assign_04_01 - Tree\Assign_04_01 - Tree.vcxproj", "{A8C48D69-16DA-44EA-A6D1-B9F1CA4ED183}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8C48D69-16DA-44EA-A6D1-B9F1CA4ED183}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A8C48D69-16DA-44EA-A6D1-B9F1CA4ED183}.Debug|Win32.Build.0 = Debug|Win32
+		{A8C48D69-16DA-44EA-A6D1-B9F1CA4ED183}.Release|Win32.ActiveCfg = Release|Win32
+		{A8C48D69-16DA-44EA-A6D1-B9F1CA4ED183}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
